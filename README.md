@@ -28,7 +28,9 @@ Projects to build a professional portfolio.
 Contributions are welcome! Please review the contributing guidelines and open a pull request or issue.
 
 ## Stay Connected
-Follow us on LinkedIn[https://www.linkedin.com/in/kristhian-palomino/] to get updates and network with other learners.
+Follow us on [LinkedIn](https://www.linkedin.com/in/kristhian-palomino/) to get updates and network with other learners. Thank you for choosing TotalDataScience. Let's embark on this educational journey together!
+
 Thank you for choosing TotalDataScience. Let's embark on this educational journey together!
+
 Feel free to adjust any section or add more specific details about your courses and projects to better align with your vision!
 
